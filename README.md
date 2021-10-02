@@ -1,0 +1,2 @@
+# social-dispersion
+framework for aggregating a users posts/content from various popular social media sites, let the site be public or private, eventually support connections between different instances where there is overlap (e.g. i have imported conversation from a mailing list and from facebook, or reddit, or whatever, and someone i know online also is running SD, our  two servers will link to one another where relevant based on configuration, and allow merge of data where appropriate)
